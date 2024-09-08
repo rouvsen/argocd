@@ -15,5 +15,5 @@ spec:
         app: java-app
     spec:
       containers:
-      - image: rouvsen/argocd-app:0.1.0
+      - image: rouvsen/argo-app:0.1.0
         name: java-app
