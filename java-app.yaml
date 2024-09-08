@@ -15,5 +15,5 @@ spec:
         app: java-app
     spec:
       containers:
-      - image: rouvsen/argo-app:0.2.0
+      - image: rouvsen/argo-app:0.1.0
         name: java-app
